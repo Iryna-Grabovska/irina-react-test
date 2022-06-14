@@ -1,0 +1,13 @@
+.herro{
+  background-image: url(../../images/herro760.jpg);
+  background-size: auto auto;
+  height:  250px;
+}
+
+.herroTitle{
+  font-size: 26px;
+  line-height: 1.16;
+  color: white;
+  padding: 116px 60px;
+  text-align: center;
+}
